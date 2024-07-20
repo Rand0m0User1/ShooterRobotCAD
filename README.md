@@ -1,6 +1,6 @@
 # ShooterRobotCAD
 
-Began with drivetrain and intake prior to the establishment of the github commit rule. STL files are still linked in their respective folders for these subsystems.
+Began with drivetrain and intake prior to the establishment of the github commit rule. Images of each mechanism are still linked in their respective folders.
 
 Drivetrain:
 27.5 x 27.5 in
